@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Atthomic
-- 👀 I’m interested in DIY projects with electronics, mainly Arduino "toys" for my children and ESP tools for my smartHome.
-- 🌱 I’m currently learning python and ESP platforms
-- 💞️ I’m looking to collaborate on Iot projects I'm develping for my own house, trying to make them modular to easily expand it.
+- 👋 Hi, I’m Gonzalo, aka @Atthomic
+- 👀 I’m interested in DIY projects with electronics like Arduino, Raspberry Pi and ESP8266. I mainly develop "toys" for my children and i'm currently working in my own SmartHome.
+- 🌱 I’m currently learning python for professional career and ESP platforms ans testing some sensors for my SmartHome project.
+- 💞️ I’m looking to collaborate on Iot projects and data analisys. 
+
+
+<!---
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<!---
 Atthomic/Atthomic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
